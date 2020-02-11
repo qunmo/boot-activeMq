@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lenovo
+Build-Jdk: 11.0.5
+Implementation-Title: lb
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sjz.sgy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/lb
+Created-By: Maven Integration for Eclipse
+
